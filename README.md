@@ -1,6 +1,6 @@
 # SmartBudget – Smart Expense & Budget Management Application
 
-## 📌 Project Information
+##  Project Information
 
 **Project Name:** Smartbudget_MiniProject_SE  
 **Project Type:** Software Engineering Mini Project  
@@ -9,7 +9,7 @@
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | Sl. No. | Name | SRN | Class |
 |--------:|------|-----|-------|
@@ -29,7 +29,7 @@ The system provides a simple dashboard with financial summaries, budget utilizat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of SmartBudget are:
 
@@ -44,7 +44,7 @@ The main objectives of SmartBudget are:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 👤 User Account Management
 - User registration
@@ -53,7 +53,7 @@ The main objectives of SmartBudget are:
 - Password hashing using bcrypt
 - User-specific financial data
 
-### 💰 Expense & Income Management
+###  Expense & Income Management
 - Add income transactions
 - Add expense transactions
 - View transaction history
@@ -61,53 +61,53 @@ The main objectives of SmartBudget are:
 - Categorize transactions
 - Add payment method and notes
 
-### 📊 Budget Management
+###  Budget Management
 - Set monthly income
 - Set overall monthly budget
 - Monitor budget utilization
 - Display budget progress
 - Generate budget alerts
 
-### 🚨 Alerts & Insights
+###  Alerts & Insights
 - Budget warning when spending reaches approximately 80%
 - Over-budget notification when spending exceeds the budget
 - Personalized spending insights
 - Spending pattern analysis
 
-### 📁 CSV Statement Import
+###  CSV Statement Import
 - Upload CSV bank statements
 - Parse transaction data
 - Detect debit and credit transactions
 - Automatically categorize transactions
 - Display imported transactions
 
-### 🤖 Automatic Expense Detection
+###  Automatic Expense Detection
 - Demonstration of automatic expense detection
 - Simulated incoming transaction feed
 - Automatic addition of detected transactions
 
 > Note: The automatic expense detection feature is a demonstration and does not represent a live bank or UPI integration.
 
-### 📈 Analytics
+###  Analytics
 - Income vs. expense analysis
 - Category-wise expense breakdown
 - Spending trends
 - Top spending categories
 - Interactive charts
 
-### 🎯 Savings Goals
+###  Savings Goals
 - Create savings goals
 - Set target amounts
 - Track current savings
 - Add optional deadlines
 - Delete savings goals
 
-### 📄 Reports
+###  Reports
 - View financial summaries
 - Generate transaction reports
 - Export transaction data as CSV
 
-### 🌓 User Interface
+###  User Interface
 - Responsive interface
 - Light theme
 - Dark theme
@@ -115,7 +115,7 @@ The main objectives of SmartBudget are:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -144,7 +144,7 @@ The main objectives of SmartBudget are:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
               ┌──────────────────────┐
