@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Project Description
+##  Project Description
 
 **SmartBudget** is a web-based Smart Expense & Budget Management Application designed to help users manage their personal finances.
 
@@ -46,7 +46,7 @@ The main objectives of SmartBudget are:
 
 ##  Features
 
-### 👤 User Account Management
+### User Account Management
 - User registration
 - User login
 - User logout
